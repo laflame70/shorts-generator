@@ -1,5 +1,6 @@
 fastapi
 uvicorn
-moviepy
+jinja2
 python-multipart
-pydantic
+moviepy
+
